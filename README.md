@@ -20,7 +20,7 @@ Developed a full-stack web application to monitor, analyze, and visualize enviro
 
 **Clone the repository:**
 
-git clone https://github.com/soumilgo/EnviScribe
+git clone https://github.com/KunalNath04/EnviScribe
 cd EnviScribe
 
 **Install dependencies**:
